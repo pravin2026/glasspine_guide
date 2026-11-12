@@ -87,7 +87,7 @@ All data is invented and represents no real property, program rule or law.
 
 ## Run locally
 
-Prerequisites: Node.js 20 or later, and your own Anthropic API key from console.anthropic.com. You don’t need either to try the prototype; the live demo link above works as is.
+Prerequisites: Node.js 20.9 or later, and your own Anthropic API key from platform.claude.com. You don’t need either to try the prototype; the live demo link above works as is.
 
 ```bash
 npm install
