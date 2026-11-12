@@ -1,0 +1,17 @@
+{
+  "name": "glasspine-guide",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "1.3.0",
+    "next": "16.4.3",
+    "react": "19.2.9",
+    "react-dom": "19.2.9"
+  }
+}
