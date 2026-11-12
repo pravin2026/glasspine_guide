@@ -1,6 +1,6 @@
 # Glasspine Guide: Today vs. With Safeguards
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://glasspineguide.vercel.app
 
 Guide is loved and widely used, but behavior varies across accounts, reliability issues are surfacing, and owners and operators want to audit what it produces. Scale here means depth: teams trusting Guide with higher-stakes work. This prototype is Phase 0 of the plan, and shows the same Guide today and with two added safeguards:
 
